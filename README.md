@@ -3,3 +3,5 @@
 
 
 estou aprendendo a criar sites e vou agora aprender a gerenciar repositórios.
+
+consegui instalar o github desktop... finalmente... Ufarssrsr
